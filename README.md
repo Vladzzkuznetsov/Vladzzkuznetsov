@@ -8,8 +8,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 ### :woman_technologist: About Me:
-I am a Junior Data Analyst<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
+I am a Junior Data Analyst.
 
 - :telescope: I'm working in the construction industry right now and contributing to the construction and design process of apartment buildings.
 
