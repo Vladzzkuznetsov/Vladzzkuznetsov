@@ -17,4 +17,4 @@ I am a Junior Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems on Stepik and read tech and mathematics articles.
 
-- :mailbox:How to reach me Stepik: [![Linkedin Badge](https://stepik.org/users/348458244)
+- :mailbox:How to reach me [Stepik](https://stepik.org/users/348458244).
