@@ -15,7 +15,7 @@ I am a Junior Data Analyst.
 
 - :telescope: I'm working in the civil engineering sector right now and contributing to the construction and design process of apartment buildings.
 
-- :seedling: Exploring Technical Content Writing and normative literature.
+- :seedling: Exploring technical content writing and normative literature.
 
 - :zap: In my free time, I solve problems on Stepik and read tech and mathematics articles.
 
