@@ -13,7 +13,7 @@
 
 I am a Junior Data Analyst.
 
-- :telescope: I'm working in the construction industry right now and contributing to the construction and design process of apartment buildings.
+- :telescope: I'm working in the civil engineering sector right now and contributing to the construction and design process of apartment buildings.
 
 - :seedling: Exploring Technical Content Writing and normative literature.
 
