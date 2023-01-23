@@ -8,7 +8,7 @@
 
 ### :woman_technologist: About Me:
 
-I am a Junior Data Analyst.
+I am a Data Analyst.
 
 - :telescope: I'm working in the civil engineering sector right now and contributing to the construction and design process of apartment buildings.
 
